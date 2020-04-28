@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import {Container, Row, Col, Media} from 'reactstrap';
-import product1 from "../assets/img/product1.jpg"
+import product1 from "../assets/img/product1.webp"
 import warranty from "../assets/img/waranty.png"
 import van from "../assets/img/van.png"
 import box from "../assets/img/box.png"

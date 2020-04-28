@@ -11,7 +11,7 @@ import {
 import {Link} from "gatsby"
 import "~/assets/css/bootstrap.min.css"
 import "~/assets/css/animate.css"
-import run from "~/assets/img/only-man.png"
+import run from "~/assets/img/only-man.webp"
 import icon1 from "~/assets/img/ic1.png"
 import icon2 from "~/assets/img/ic2.png"
 import icon3 from "~/assets/img/ic3.png"

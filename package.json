@@ -31,7 +31,8 @@
     "gatsby-plugin-sw": "^1.0.1",
     "gatsby-source-filesystem": "^2.2.1",
     "gatsby-source-multi-api": "^1.0.3",
-    "gatsby-source-shopify": "^3.1.1",
+    "gatsby-source-shopify": "^3.2.0",
+    "gatsby-source-wordpress": "^3.3.0",
     "gatsby-transformer-sharp": "^2.4.1",
     "jquery": "^3.4.1",
     "js-yaml": "^3.13.1",
@@ -68,7 +69,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "serve":"gatsby serve",
+    "serve": "gatsby serve",
     "prod": "npm run build; npm run build:lambda",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",

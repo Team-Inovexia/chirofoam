@@ -13,11 +13,11 @@ import icon4 from "~/assets/img/ic4.png"
 import us from "~/assets/img/us.png"
 import eco from "~/assets/img/eco.png"
 import confidence from "~/assets/img/confidence.png"
-import circle1 from "~/assets/img/circle1.png"
-import circle2 from "~/assets/img/circle2.png"
-import circle3 from "~/assets/img/circle3.png"
+import circle1 from "~/assets/img/circle1.webp"
+import circle2 from "~/assets/img/circle2.webp"
+import circle3 from "~/assets/img/circle3.webp"
 import circle4 from "~/assets/img/circle4.png"
-import circle5 from "~/assets/img/circle5.png"
+import circle5 from "~/assets/img/circle5.webp"
 
 
 const ProductPage = ({ data }) => {

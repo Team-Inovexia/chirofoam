@@ -7,9 +7,9 @@ import Banner from "../components/banner-shop-chirofoam"
 import {Container, Row, Col, Media} from 'reactstrap'
 import SEO from '~/components/seo'
 import mattress1 from "../assets/img/mattress1.jpg"
-import run from "../assets/img/only-man.png"
-import product1 from "../assets/img/product1.jpg"
-import product2 from "../assets/img/product2.jpg"
+import run from "../assets/img/only-man.webp"
+import product1 from "../assets/img/product1.webp"
+import product2 from "../assets/img/product2.webp"
 import ScrollAnimation from 'react-animate-on-scroll'
 
 const shopChirofoam = props => {
